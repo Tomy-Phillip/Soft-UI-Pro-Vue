@@ -74,7 +74,7 @@
           <span class="home-text02 lead">
             <span>
               Find the story of Creative Tim&apos;s most complex design
-              <span v-html="raw3wn1"></span>
+              <span v-html="rawqtkx"></span>
             </span>
             <span>system and all the work that make this design available.</span>
           </span>
@@ -457,7 +457,7 @@ export default {
 
   data() {
     return {
-      raw3wn1: ' ',
+      rawqtkx: ' ',
     }
   },
 
@@ -663,7 +663,6 @@ export default {
 .home-container06 {
   left: 0px;
   width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
   bottom: 0px;
   height: 590px;
   display: flex;
