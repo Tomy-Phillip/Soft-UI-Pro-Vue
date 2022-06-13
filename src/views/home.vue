@@ -74,7 +74,7 @@
           <span class="home-text02 lead">
             <span>
               Find the story of Creative Tim&apos;s most complex design
-              <span v-html="rawhqyb"></span>
+              <span v-html="raw3wn1"></span>
             </span>
             <span>system and all the work that make this design available.</span>
           </span>
@@ -457,16 +457,16 @@ export default {
 
   data() {
     return {
-      rawhqyb: ' ',
+      raw3wn1: ' ',
     }
   },
 
   metaInfo: {
-    title: 'Soft UI Pro',
+    title: 'website-explorai',
     meta: [
       {
         property: 'og:title',
-        content: 'Soft UI Pro',
+        content: 'website-explorai',
       },
     ],
   },

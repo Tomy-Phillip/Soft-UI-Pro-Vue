@@ -116,7 +116,7 @@
             <h3 class="headingTwo">
               <span>
                 Contact
-                <span v-html="raw3idc"></span>
+                <span v-html="rawkx7s"></span>
               </span>
               <span>Information</span>
             </h3>
@@ -212,16 +212,16 @@ export default {
 
   data() {
     return {
-      raw3idc: ' ',
+      rawkx7s: ' ',
     }
   },
 
   metaInfo: {
-    title: 'Profile - Soft UI Pro',
+    title: 'Profile - website-explorai',
     meta: [
       {
         property: 'og:title',
-        content: 'Profile - Soft UI Pro',
+        content: 'Profile - website-explorai',
       },
     ],
   },
